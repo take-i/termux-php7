@@ -49,3 +49,6 @@ $ tree debs/ | egrep 'php|libicu'
 ```
 
 We haven't tested it enough, so something may go wrong.
+
+Please visit my blog if you like.
+https://junkhack.gpl.jp/2021/06/01/termux-php8-to-php7
