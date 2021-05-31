@@ -4,8 +4,10 @@
 (1) Prepare Ubuntu 20.04 LTS build environment.
 (2) Create docker environment on ubuntu.
 
-`sudo apt install docker-compose`
-`sudo gpasswd -a $USER docker`
+```
+sudo apt install docker-compose
+sudo gpasswd -a $USER docker
+```
 
 (3) Git clone the termux package source in Ubuntu environment.
 
