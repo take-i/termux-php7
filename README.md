@@ -1,5 +1,9 @@
 # termux-php7
 
+### Install
+readme first https://hack.gpl.jp/2021/07/11/php-7421-latest-build-with-termux/
+
+
 ### Outline
 (1) Prepare Ubuntu 20.04 LTS build environment.
 (2) Create docker environment on ubuntu.
